@@ -36,9 +36,9 @@ This project is a command-line application that generates a professional README.
   Unknown
   
   ## Contributing
-  
-     You will be prompted to enter details about your project, such as the title, description, installation instructions, usage information, license, contribution             guidelines, test instructions, GitHub username, and email address. After providing the necessary information, a README.md file will be generated in the project directory.
 
+   You will be prompted to enter details about your project, such as the title, description, installation instructions, usage information, license, contribution             guidelines, test instructions, GitHub username, and email address. After providing the necessary information, a README.md file will be generated in the project directory.
+    
    License
    This project is licensed under the MIT License.
 
