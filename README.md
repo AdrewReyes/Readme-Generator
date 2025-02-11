@@ -1,30 +1,30 @@
-# How to make a Readme Generator
-  
-  ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-  
-  ## Description
-  
-  Readme generator for github
-  
-  ## Table of Contents
-  * [Installation](#installation)
-  * [Usage](#usage)
-  * [License](#license)
-  * [Contributing](#contributing)
-  * [Tests](#tests)
-  * [Questions](#questions)
-  
-  ## Installation
-  
-  use command prompt to create readme
+# README Generator
+
+This project is a command-line application that generates a professional README.md file based on user input. The application prompts the user for information about their project and then creates a formatted README file with the provided details.
+
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
+- [Screenshots](#screenshots)
+- [Video Walkthrough](#video-walkthrough)
+
+## Installation
+
+1. Clone the repository to your local machine.
+   ```bash
+   git clone <repository-url>
   
   ## Usage
   
-  automate readme files 
+  To generate a README file, run the following command:
   
   ## License
-  
-  This project is licensed under the MIT license.
+
+  Unknown
   
   ## Contributing
   
@@ -32,8 +32,9 @@
   
   ## Tests
   
-  readme file will generate
-  
+  To run tests, use the following command:
+  npm test
+
   ## Questions
   
   If you have any questions, please reach out to me at [Andrewreyes.m@gmail.com](mailto:Andrewreyes.m@gmail.com). You can also find me on GitHub: [adrewr](https://github.com/adrewr).
