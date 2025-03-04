@@ -27,6 +27,10 @@ This project is a command-line application that generates a professional README.
    npm init -y
    npm install inquirer
 
+  ## Video Walkthrough
+  
+  [Watch the walkthrough video](https://app.screencastify.com/v3/watch/d2YqPVTfMka6p1vmgjh1)
+
   ## Usage
   
   To generate a README file, run the following command:
